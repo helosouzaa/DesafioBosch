@@ -20,6 +20,6 @@ Define os dados de entrada e os processa e exibe os dados formatados.
 
 
 ## Instruções
-1. Clone o repositório: git clone <link-do-repositorio>
-2. Vá ao diretório do projeto: cd <diretorio-do-projeto>
+1. Clone o repositório: git clone link-do-repositorio
+2. Vá ao diretório do projeto: cd diretorio-do-projeto
 3. Execute o arquivo "main.py" utilizando no seu terminal o comando "python main.py" para ver os resultados.
