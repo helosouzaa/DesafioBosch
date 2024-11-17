@@ -2,7 +2,8 @@
 
 ## Descrição
 
-O projeto tem por finalidade a organização de dados de usuários e suas respectivas linhas telefônicas. Para isto, o código organiza em objetos distintos, manipulando os dados.
+O projeto tem por finalidade a organização de dados de usuários e suas respectivas linhas telefônicas.
+Para isto, o código organiza em objetos distintos, manipulando os dados.
 
 ## Estrutura do Código
 
@@ -10,10 +11,8 @@ O projeto tem por finalidade a organização de dados de usuários e suas respec
 Define as classes principais usadas no projeto (User, Line)
 
 2. utils.py
-Guarda as funções para a leitura dos dados
-
-read_data(data):
-Recebe uma lista de strings com informações de usuários e linhas telefônicas.
+Guarda as funções para a leitura dos dados. Utiliza do read_data(data) recebendo uma lista de strings com 
+informações de usuários e linhas telefônicas.
 Processa os dados, criao instâncias das classes e retorna duas listas: uma com usuários e outra com linhas.
 
 3. main.py
